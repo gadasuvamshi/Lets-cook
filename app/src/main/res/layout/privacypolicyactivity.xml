@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Privacy Policy"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Effective Date: 10/10/2024"
+            android:textSize="16sp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Introduction"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="This Privacy Policy outlines how Let's Cook collects, uses, and discloses your information. By using our app, you agree to the practices described in this Privacy Policy."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- Content Collection Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Content Collection"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The content displayed in Let's Cook, including recipes, text, and images, is collected from publicly available sources on the internet. We do not claim ownership or rights to any of the content displayed unless explicitly stated. All content remains the property of its respective owners."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- Data Collection Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Personal Information"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="We do not collect personal information such as names, email addresses, or other identifiable data from users. However, the app may use third-party services such as analytics tools which may collect data such as device type, IP address, and usage behavior to improve the app's performance."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- Data Usage Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="How We Use Your Data"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Any data collected is used to improve user experience, provide relevant content, and maintain app functionality. We do not sell, trade, or share your personal data with third parties."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- Third-Party Services Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Third-Party Services"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="We may use third-party services such as Google Analytics or AdMob that collect information to analyze and improve the app. These third-party services have their own privacy policies, and we encourage you to review them."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- Content Liability Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Content Liability"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Let's Cook provides content for informational purposes only and makes no claims to the accuracy, ownership, or validity of the content. If you believe any content infringes on your copyright, please contact us at rakeshbokuri@gmail.com and we will take appropriate action."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- User Consent Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Consent"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="By using our app, you consent to our privacy policy. If you do not agree with any part of this policy, please discontinue the use of the app."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- Changes to Policy Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Changes to This Policy"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="We reserve the right to modify this privacy policy at any time. Changes will be posted within the app, and your continued use of the app will signify your acceptance of those changes."
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+        <!-- Contact Information Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact Us"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="If you have any questions regarding this privacy policy, please contact us at: [Insert Contact Email]"
+            android:textSize="16sp"
+            android:paddingBottom="16dp" />
+
+    </LinearLayout>
+
+</ScrollView>
